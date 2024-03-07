@@ -1,6 +1,6 @@
 # Hour Booster
 
-Hour Booster is a small project created out of pure boredom. Its goal is to enable you to farm hours using the game ID.
+Hour Booster is a small project created out of pure boredom. Its goal is to enable you to farm hours using the game ID on Steam.
 
 ## Details
 
